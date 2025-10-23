@@ -1,0 +1,4 @@
+create table persona(
+
+    id INT PRIMARY KEY 
+) 
